@@ -1,8 +1,8 @@
-fastapi==0.115.0
-uvicorn[standard]==0.30.6
-qrcode[pil]==7.4.2
-Pillow==10.4.0
-segno==1.6.1
-python-multipart==0.0.9
-fastapi>=0.115.0
-pydantic>=2.10.0
+fastapi
+uvicorn[standard]
+qrcode[pil]
+Pillow
+segno
+python-multipart
+fastapi
+pydantic
