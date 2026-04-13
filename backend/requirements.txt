@@ -5,3 +5,4 @@ Pillow==10.4.0
 segno==1.6.1
 python-multipart==0.0.9
 pydantic==2.8.2
+pydantic>=2.6,<2.8
